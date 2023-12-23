@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Erin</h1>
 <h3 align="center">A lover of learning and aspiring software architect</h3>
 
-- 🔭 I’m currently working on **AWS Severless Web Application**
+- 🔭 I’m currently working on **Typescript Microsoft Power App Code Components**
 
-- 🌱 I’m currently learning **AWS, React, PyTorch**
+- 🌱 I’m currently learning **Cybersecurity and Cryptography, Typescript, PyTorch**
 
 - 👨‍💻 All of my projects are available on [https://github.com/erinL168](https://github.com/erinL168)
 
