@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erin</h1>
-<h3 align="center">A lover of learning and aspiring software architect</h3>
+<h3 align="center">A lover of learning and aspiring cybersecurity advocate and specialist</h3>
 
 - 🔭 I’m currently working on **Typescript Microsoft Power App Code Components**
 
