@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **erinj.lam@mail.utoronto.ca**
 
-- ⚡ Fun fact: I'm an aspiring jazz pianist and love muay thai!
+- ⚡ Fun fact: I'm an aspiring jazz pianist and love climbing & muay thai!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
